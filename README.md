@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## what up 👋
+- 🌱 I’m currently learning about natural language processing using tools such as Hugging Face, PyTorch, and AWS SageMaker
 <!--
 **dross20/dross20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
