@@ -1,7 +1,7 @@
 ## what up 👋 i'm drew!
 - 🌱 I’m currently learning about **natural language processing** using tools such as **Hugging Face**, **PyTorch**, and **LangChain**
 - 🔭 I’m currently working on building a **CNN** to perform image classification on pictures of characters from The Simpsons
-- 👯 I’m looking to collaborate on projects that explore uses cases for **deep learning** and **natural language processing** models
+- 👯 I’m looking to collaborate on projects that explore uses cases for **deep learning** and **NLP** models
 - 💬 Ask me about what I'm **learning about** right now and what **music** I've been listening to recently
 <!--
 **dross20/dross20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
