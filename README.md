@@ -1,1 +1,5 @@
-<img width="1900" height="429" alt="Untitled" src="https://github.com/user-attachments/assets/f30e066f-9993-43d9-a822-18a190112024" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/kjVNuYw.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/W8gJgC5.png">
+    <img src="https://i.imgur.com/W8gJgC5.png" alt="Banner"></img>
+</picture>
